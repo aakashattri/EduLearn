@@ -835,8 +835,8 @@ You can add:
 
 Example:
 
-- GitHub: `https://github.com/your-username`
-- LinkedIn: `https://linkedin.com/in/your-profile`
+- GitHub: `https://github.com/aakashattri`
+- LinkedIn: `https://linkedin.com/in/aakashattri`
 
 ---
 
